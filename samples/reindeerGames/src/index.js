@@ -21,245 +21,163 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+        "What is the first carol sung by the Griswolds in the car?": [
+            "O Come, All Ye Faithful",
+            "Deck The Halls",
+            "We Wish You A Merry Christmas",
+            "Jingle Bells",
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "What movie is Rusty watching when the relatives arrive?": [
+            "It's A Wonderful Life",
+            "A Christmas Story",
+            "A Christmas Carol",
+            "A Miracle on 34th Street"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "What are Clark's neighbors' names?": [
+          "Todd and Margo",
+          "Tedd and Maggie",
+          "Tim and Martha",
+          "Trey and Mary"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "Why is the neighbors' carpet all wet?": [
+          "I don't know, Margo",
+          "They let ice melt on the floor",
+          "Clark dumped a bunch of snow on it",
+          "Their dishwasher has a leak"
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "What works as hard as Clark according to his father-in-law?": [
+          "Washing machine",
+          "Indoor plumbing",
+          "Steam engine",
+          "Dish washer"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "What store does Clark end up at while sledding?": [
+          "Walmart",
+          "K Mart",
+          "Target",
+          "Albertsons"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        "How long has cousin Eddie been unemployed?": [
+          "Seven years",
+          "Four years",
+          "Eight months",
+          "A year and a half"
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "What does Clark get for his Christmas bonus?": [
+          "Jelly of the month club",
+          "A new swimming pool",
+          "A Corvette",
+          "A promotion"
         ]
     },
     {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
+        "What is the last line in the movie?": [
+          "I did it.",
+          "Merry Christmas, Sparky.",
+          "And to all a good night.",
+          "Who wants some egg nog?"
         ]
     },
     {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
+        "What animal jumps out of the Christmas   tree?": [
+          "Squirrel",
+          "Raccoon",
+          "Cat",
+          "Chipmunk"
+        ] 
+    },
+    {
+        "What is Clark Griswold's middle initial?": [
+          "W",
+          "J",
+          "C",
+          "F"
         ]
     },
     {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
-            "J.K. Rowling"
+        "What kind of mug is Clark drinking from when he talks to his boss?": [
+          "Tazmanian Devil",
+          "Goofy",
+          "Mickey Mouse",
+          "Bullwinkle"
         ]
     },
     {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
+        "What is Eddie's dog's name?": [
+          "Snots",
+          "Butch",
+          "Barf",
+          "Snickers"
         ]
     },
     {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
+        "How does Clark's boss pronounce his last name?": [
+          "Greaseball",
+          "Grisbald",
+          "Grossball",
+          "Glow ball"
         ]
     },
     {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
+        "What was wrong with the turkey?": [
+          "It was severely overcooked",
+          "It was still frozen",
+          "The dog ate it",
+          "It was still alive"
         ]
     },
     {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
+        "What is Audrey's boyriend's name?": [
+          "Alexander",
+          "Fernando",
+          "Christopher",
+          "Blake"
         ]
     },
     {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
+        "What did the lead police officer wish he had to beat Clark's boss with?": [
+          "A rubber hose",
+          "A baseball bat",
+          "A night stick",
+          "A shovel"
         ]
     },
     {
-        "What was Rudolph's father's name?": [
-            "Donner",
-            "Dasher",
-            "Blixen",
-            "Comet"
+        "Which of the following characters can't swim?": [
+          "Eddie",
+          "Rusty",
+          "Uncle Lewis",
+          "Ellen"
         ]
     },
     {
-        "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-            "Comet",
-            "Blixen",
-            "Donner",
-            "Dasher"
+        "What does Aunt Bethany offer as the prayer for Christmas dinner?": [
+          "The Pledge of Allegiance",
+          "The national anthem",
+          "The Lord's Prayer",
+          "America the Beautiful"
         ]
     },
     {
-        "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-            "Fireball",
-            "Clarice",
-            "Jumper",
-            "Vixen"
-        ]
-    },
-    {
-        "In the 1964 movie, How did Donner, Rudolph's father, try to hide Rudolph's nose?": [
-            "Black mud",
-            "Bag",
-            "Pillow case",
-            "Sock"
-        ]
-    },
-    {
-        "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-            "Dentist",
-            "Reindeer",
-            "Toy maker",
-            "Candlestick maker"
-        ]
-    },
-    {
-        "In the 1964 movie,what was the Bumble's one weakness?": [
-            "Could not swim",
-            "Always hungry",
-            "Candy canes",
-            "Cross eyed"
-        ]
-    },
-    {
-        "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-            "Peppermint",
-            "Gold",
-            "India",
-            "Polar Bears"
-        ]
-    },
-    {
-        "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-            "Square wheels",
-            "No Engine",
-            "Paint does not match",
-            "It does not toot"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the Jack in the Box?": [
-            "Charlie",
-            "Sam",
-            "Billy",
-            "Jack"
-        ]
-    },
-    {
-        "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-            "Storm",
-            "No snow",
-            "No toys",
-            "The Reindeer were sick"
-        ]
-    },
-    {
-        "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-            "Oink",
-            "Growl",
-            "Bark",
-            "Meow"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the prospector?": [
-            "Yukon Cornelius",
-            "Slider Sam",
-            "Bumble",
-            "Jack"
-        ]
-    },
-    {
-        "How far do reindeer travel when they migrate?": [
-            "3000 miles",
-            "700 miles",
-            "500 miles",
-            "0 miles"
-        ]
-    },
-    {
-        "How fast can a reindeer run?": [
-            "48 miles per hour",
-            "17 miles per hour",
-            "19 miles per hour",
-            "14 miles per hour"
+        "What two adjectives did Frank Shirley's wife use to describe Eddie?": [
+          "Bulging and Beastly",
+          "Drunk and Ugly",
+          "Vulgar and Inbred",
+          "Tall and Disgusting"
         ]
     }
 ];
@@ -275,9 +193,9 @@ exports.handler = function (event, context) {
          * prevent someone else from configuring a skill that sends requests to this function.
          */
 
-//     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.05aecccb3-1461-48fb-a008-822ddrt6b516") {
-//         context.fail("Invalid Application ID");
-//      }
+     if (event.session.application.applicationId !== "amzn1.ask.skill.c2092d72-4780-485d-bbab-aab91bfde939") {
+         context.fail("Invalid Application ID");
+      }
 
         if (event.session.new) {
             onSessionStarted({requestId: event.request.requestId}, event.session);
